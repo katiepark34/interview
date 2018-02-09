@@ -1,0 +1,60 @@
+/* This is my CSS file*/
+/* #42f4cb - this is mint*/
+body{
+	background-image:url("../images/blue.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+	padding:0;
+	margin:0;
+}
+
+
+
+h1{
+	font-family: 'Gloria Hallelujah',  cursive ;
+	color: #42f4cb;
+	text-align: center;
+	font-size: 50pt;
+	background-color: #f441be;
+	margin:0;
+	height:200px;
+	padding-top:5%;
+	text-shadow: 5px 5px #e218df
+}
+
+h2{
+	font-family:'Crete Round', serif;
+	color:#f4416a;
+	text-align: center;
+	font-size:40pt;
+	
+}
+
+h3{
+	font-family:'Create Round',serif;
+	color:#f25b04;
+	text-align:center;
+	font-size:30pt;
+}
+
+#TopPic{
+	padding-top: 2%;
+	text-align: center;
+	/*background-image:url("../images/background.jpg");*/
+}
+
+
+p{
+	padding-right:10%;
+	padding-left: 10%;
+	font-size: 30pt;
+}
+
+/*.imagePair{
+	float:left;
+	width:40%;
+}*/
+
+
+
